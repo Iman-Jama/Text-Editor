@@ -29,6 +29,12 @@ The main features include the following:<br>
 ## <u>Getting Started</u>
 Using the Text-Editor is very easy. Simply navigate to **INSERT URL** to use the application. There is also an option to install the editor so you can use it offline.
 
+Here is an Image of the Text Editor:
+![picture](/client/src/images/Screenshot%202023-06-20%20221215.png)
+
+[Here is the link to the application](https://text-editor-11-8c8e4fa571f6.herokuapp.com/)
+
+
 ## <u>Contact Me</u>
 
 My github is: [iman-jama](https://github.com/iman-jama) <br>
